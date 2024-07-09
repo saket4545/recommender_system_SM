@@ -1,1 +1,3 @@
-# recommender_system_SM
+Recommender System Using Streamlit
+Welcome to the Content-Based Recommender System project! This repository contains a web application built using Streamlit that demonstrates a content-based recommender system. The application can recommend items based on user preferences by analyzing the content of the items.
+Content-based recommender systems suggest items to users based on the features of the items and the user's past interactions or stated preferences. This project leverages Streamlit, a powerful framework for building interactive web applications in Python, to create a content-based recommendation system. It uses cosine similarity to measure the similarity between items based on their content features.
